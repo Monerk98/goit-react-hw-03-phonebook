@@ -1,0 +1,14 @@
+
+  
+  .listItem {
+    text-shadow: 1px 1px 1px silver, -1px 1px 1px silver;
+    color: white;
+  }
+  
+  .list {
+    width: 400px;
+    text-align: right;
+    margin: 0 auto;
+    padding-right: 20px;
+  }
+  

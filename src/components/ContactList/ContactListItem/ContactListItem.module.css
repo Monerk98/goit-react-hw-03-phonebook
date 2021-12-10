@@ -1,0 +1,21 @@
+.btn {
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+    padding: 5px 10px;
+    margin: 10px;
+    border-radius: 10px;
+    font-family: "Montserrat", sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,51,1) 100%, rgba(0,212,255,1) 100%);
+    background-size: 200% auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    transition: 0.5s;
+    width: 100px;
+    height: 30px;
+  }
+  
+  .btn:hover {
+    background-position: right center;
+  }
